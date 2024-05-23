@@ -110,3 +110,8 @@ IA           -> VS   -> RS
 생성하기 위해 크레이트 커밋티드 리소스 함수로 생성
 
 디스크립터 3개 = 리소스 3개
+
+
+HLSL
+High Level Shader Language
+	

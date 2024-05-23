@@ -360,3 +360,12 @@ OTT
 
 
 
+2024 05 17
+
+왜 3G에는 All IP안 함?
+
+NVMO
+
+ARPV
+	Average Revenue Pre User(Visitor) -> 유저 당 매출이 얼마나 나오는가?
+	
